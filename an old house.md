@@ -4,7 +4,9 @@ Last year my wife and I bought a 100 year old house.  Since then my spare time h
 <!-- not sure if this is needed here - we can highlight the parallel with shadow IT later "from a large collection of small (VB/C#/.Net) applications."-->
 
 ## Parallels with renovating a legacy IT environment
-<There are many parallels with renovating a legacy IT environment.> 
+> There are many parallels with renovating a legacy IT environment.
+>
+
 Legacy environments are typically a collection of channels, core systems, infrastructure and assorted workarounds.
 <have been stretching the metaphor - need to provide an appropriate context>
 These environments typically grew organically, either in response to gaps in existing solutions, or for low cost incremental delivery of changing requirements.  They typically have had multiple sponsors over the years and each has left a different fingerprint on the solution.  Vibe programming is changing the cost model for delivery - we are likely to see more of these environments in the future.
