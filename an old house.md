@@ -1,10 +1,17 @@
-Renovating an old house
+# Transforming an old house
 
-Last year my wife and I bought a 100 year old house.  Since then my spare time has been occupied in renovating and repairing the building.  
+Last year my wife and I bought a 100 year old house.  Since then my spare time has been occupied in renovating and repairing the building.  The process feels remarkably like removing "technical debt" from a large collection of small (VB/C#/.Net) applications.
 
-There are many parallels with renovating a legacy IT environment.  The renovation process feels remarkably like removing "technical debt" from a large collection of small (typically VB/C#/.Net) applications.  These environments typically grew organically, either in response to gaps in existing solutions, or for low cost incremental delivery of changing requirements.  They typically have had multiple sponsors over the years and each has left a different fingerprint on the solution.  Vibe programming is changing the cost model for delivery - we are likely to see more of these environments in the future.
+## Parallels with renovating a legacy IT environment
+<There are many parallels with renovating a legacy IT environment.> 
+Legacy environments are typically a collection of core systems, infrastructure and <have been stretching the metaphor - need to provide an appropriate context>
+These environments typically grew organically, either in response to gaps in existing solutions, or for low cost incremental delivery of changing requirements.  They typically have had multiple sponsors over the years and each has left a different fingerprint on the solution.  Vibe programming is changing the cost model for delivery - we are likely to see more of these environments in the future.
 
+When to modernise, repair or replace
 <When to do this vs modernise vs replace?>
+  Replace is a complete transformation including product, process and operating model. (knockdown & rebuild, new development opportunity)
+  Renovate/Modernise - rebuilding parts or all of the solution to make it more efficient (renovation)
+  Repair
 - At one end of town the approach is often to knockdown and rebuild, however we want to preserve the character of the place.
 - Good bones - something to preserve vs too much broken stuff.
 - How much money will we spend on maintenance (changes) vs renovation (upgrades) vs rebuild (system replacement and transformation). 
